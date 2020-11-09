@@ -1,0 +1,39 @@
+html{
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+header{
+    
+
+}
+
+.content{
+    padding-bottom: 60px;
+    height: 100%;
+}
+
+.form{
+    margin: 0 auto;
+    margin-top: 120px;
+    max-width: 40%;
+}
+
+footer{
+    height: 80px;
+    background-color: #343A40;
+}
+
+.btn_send{
+    background-color: #289D42 !important;
+    border: 1px solid #289D42 !important;
+}
